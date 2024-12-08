@@ -101,6 +101,9 @@
   <img src="https://github-profile-trophy.vercel.app?username=signum-solis&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=signum-solis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+<div alignn = ""left>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6752e704ecc889bb0de89af8?variant=dark" alt="roadmap.sh"/></a>
+</div>
 
 ###
 
